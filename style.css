@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 20px; }
+#root { max-width: 800px; margin: 0 auto; }
+.card { border: 1px solid #ccc; padding: 10px; margin: 10px 0; }
+button { margin-right: 5px; }
+input { margin-right: 5px; }
